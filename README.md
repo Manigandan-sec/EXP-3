@@ -39,12 +39,24 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+# CIRCUIT DIAGRAM: 
 
-Tabulation:2
+a)SPDT(XNOR):
+
+<img width="775" height="395" alt="image" src="https://github.com/user-attachments/assets/a7493e2b-2752-453d-846a-9d38f0a31278" />
+
+
+b)SPDT(XOR):
+
+<img width="798" height="402" alt="image" src="https://github.com/user-attachments/assets/1b40869c-979c-419f-be8e-8363f9eded2c" />
+
+
+a) SPDT(XNOR):
+![WhatsApp Image 2025-10-04 at 1 22 14 PM](https://github.com/user-attachments/assets/0e4add3c-b1f3-4093-8937-5a8a30a4e9f3)
+
+b) SPDT(XOR):
+![WhatsApp Image 2025-10-04 at 1 22 15 PM](https://github.com/user-attachments/assets/b7c006eb-d4c8-444c-8343-b761649c6f00)
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
